@@ -1,3 +1,4 @@
-0oḊ-48⁰oŒF"01.dat"  ⊳ process the data
-∴Ṡσ                 ⊳ part 1
-ΣOj3h↓µṠθ           ⊳ part 2
+⊳ call by running `flax f 22/01.flx`
+0oḊ-48⁰oŒF"22/01.dat"  ⊳ process the data
+∴Ṡσ                    ⊳ part 1
+Σ¯3t∂Ṡθ                ⊳ part 2
